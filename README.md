@@ -34,3 +34,6 @@ Analyze the likelihood of a patient being readmitted to a healthcare facility wi
 - Exploratory Data Analysis (EDA): Summarize key findings from the initial data exploration. (e.g., notebooks/01_data_exploration.ipynb)
 - Feature Engineering: Explain how new features were created. (e.g., notebooks/02_feature_engineering.ipynb)
 - Modeling/Analysis: Describe the methods or models used. (e.g., notebooks/03_model_training.ipynb)
+
+## 5. Results and Findings
+Summarize the main conclusions and insights derived from the analysis. Include key visualizations or metrics if relevant.
