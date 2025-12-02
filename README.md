@@ -22,7 +22,7 @@ Analyze the likelihood of a patient being readmitted to a healthcare facility wi
   
 ### 3.2. Installation
 
-# Required Python packages
+## Required Python packages
 
 - import numpy as np
 - import pandas as pd
