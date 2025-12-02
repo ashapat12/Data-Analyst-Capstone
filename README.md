@@ -30,10 +30,16 @@ Analyze the likelihood of a patient being readmitted to a healthcare facility wi
 - import seaborn as sns
 
  ## 4. Analysis Steps
+ 
  - Data Cleaning and Preprocessing: Cleaned and explored raw values in Excel.
 - Exploratory Data Analysis: Queried structured data using MySQL(DBeaver)
 - Feature Engineering: Engineered features and explored trends in Python using JupyterLab
 - Modeling/Analysis: Created visiual insights using Tableau
 
 ## 5. Results and Findings
-Summarize the main conclusions and insights derived from the analysis. Include key visualizations or metrics if relevant.
+
+- The largest majority admitted were Caucasians. Smallest majority was Asians. 
+- The ages between 60-80 were the highest majority,
+- Women were more likely to be readmitted. 
+- Majority of patients were readmitted after 30 days.
+
