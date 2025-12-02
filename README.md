@@ -16,6 +16,15 @@ Analyze the likelihood of a patient being readmitted to a healthcare facility wi
 - Excel
 - SQL
 - Python
-- Jupyter Notebook
+- JupyterLab
 - Tableau
 - Git
+  
+### 4.2. Installation
+
+# Install required Python packages
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from scipy.stats import zscore
+import seaborn as sns
