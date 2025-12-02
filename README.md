@@ -20,11 +20,11 @@ Analyze the likelihood of a patient being readmitted to a healthcare facility wi
 - Tableau
 - Git
   
-### 4.2. Installation
+### 3.2. Installation
 
-# Install required Python packages
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-from scipy.stats import zscore
-import seaborn as sns
+# Required Python packages
+
+- import numpy as np
+- import pandas as pd
+- import matplotlib.pyplot as plt
+- import seaborn as sns
