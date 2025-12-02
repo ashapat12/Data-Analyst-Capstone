@@ -1,3 +1,4 @@
-# Project Background
+# Healthcare Management: Patient Readmission Prediction
 
-##Table of contents
+##Project Overview
+
