@@ -30,8 +30,7 @@ Analyze the likelihood of a patient being readmitted to a healthcare facility wi
 - import seaborn as sns
 
  ## 4. Analysis Steps
-Outline the main steps of the data analysis, potentially linking to relevant notebooks or scripts.
-Data Cleaning and Preprocessing: Describe the key cleaning steps and transformations applied to the raw data. (e.g., notebooks/01_data_exploration.ipynb)
-Exploratory Data Analysis (EDA): Summarize key findings from the initial data exploration. (e.g., notebooks/01_data_exploration.ipynb)
-Feature Engineering: Explain how new features were created. (e.g., notebooks/02_feature_engineering.ipynb)
-Modeling/Analysis: Describe the methods or models used. (e.g., notebooks/03_model_training.ipynb)
+ - Data Cleaning and Preprocessing: Describe the key cleaning steps and transformations applied to the raw data. (e.g., notebooks/01_data_exploration.ipynb)
+- Exploratory Data Analysis (EDA): Summarize key findings from the initial data exploration. (e.g., notebooks/01_data_exploration.ipynb)
+- Feature Engineering: Explain how new features were created. (e.g., notebooks/02_feature_engineering.ipynb)
+- Modeling/Analysis: Describe the methods or models used. (e.g., notebooks/03_model_training.ipynb)
